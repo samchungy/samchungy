@@ -3,6 +3,7 @@ I am a 25 year old software developer based in Melbourne, Australia. I am curren
 
 ### 🌟 Main Skills
 - Typescript
+- Javascript
 - Node.js
 - AWS
 - Serverless
