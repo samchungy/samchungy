@@ -1,17 +1,16 @@
-## Hi I'm Sam 👋
+## Hi, I'm Sam 👋
 I am a 25 year old software developer based in Melbourne, Australia. I am currently working as a software developer for SEEK Jobs.
 
-<!--
-**samchungy/samchungy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Main Skills
+- Typescript
+- Node.js
+- AWS
+- Serverless
 
-Here are some ideas to get you started:
+### 👨‍💻 Open Source Contributions
+- AWS SDK v3 - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
+- Serverless Canary Deployments - [feat: generate deployment group name #135](https://github.com/davidgf/serverless-plugin-canary-deployments/pull/135)
+- Serverless Datadog Plugin - [Fix: Correct exclude functionality #145](https://github.com/DataDog/serverless-plugin-datadog/pull/145)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧶 Interests
+I love technology and have to stay up to date! I enjoy playing games and building Slack bots. I love going out for a drink, watching the AFL or EPL, and, going out to see a live gig or musical.
