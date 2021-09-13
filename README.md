@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi I'm Sam 👋
+I am a 25 year old software developer based in Melbourne, Australia. I am currently working as a software developer for SEEK Jobs.
 
 <!--
 **samchungy/samchungy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
