@@ -12,6 +12,7 @@ I am a 25 year old software developer based in Melbourne, Australia. I am curren
 - AWS SDK v3 - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
 - Serverless Canary Deployments - [feat: generate deployment group name #135](https://github.com/davidgf/serverless-plugin-canary-deployments/pull/135)
 - Serverless Datadog Plugin - [Fix: Correct exclude functionality #145](https://github.com/DataDog/serverless-plugin-datadog/pull/145)
+- Serverless Framework - [fix: Fix support for custom service level package artifacts](https://github.com/serverless/dashboard-plugin/pull/669)
 
 ### 🤖 Some Cool Stuff I've Built
 - [Serverless AFR RSS Feed](https://github.com/samchungy/Serverless-AFR-RSS-Feed) - A Serverless RSS feed which scraped the AFR for news about my former company. Was used by over 100+ employees to keep up to date with the news.
