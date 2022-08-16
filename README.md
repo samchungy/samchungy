@@ -1,5 +1,5 @@
 ## Hi, I'm Sam 👋
-I am a 25 year old software developer based in Melbourne, Australia. I am currently working as a backend developer for SEEK Jobs.
+I am a 26 year old software developer based in Melbourne, Australia. I am currently working as a backend developer for SEEK Jobs.
 
 ### 🌟 Skills:
 Typescript, Node.js, AWS, Serverless
