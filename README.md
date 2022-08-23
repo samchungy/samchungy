@@ -12,6 +12,7 @@ Typescript, Node.js, AWS, Serverless
 - Serverless Canary Deployments - [feat: generate deployment group name #135](https://github.com/davidgf/serverless-plugin-canary-deployments/pull/135)
 - Serverless Datadog Plugin - [Fix: Correct exclude functionality #145](https://github.com/DataDog/serverless-plugin-datadog/pull/145)
 - Serverless Framework - [fix: Fix support for custom service level package artifacts](https://github.com/serverless/dashboard-plugin/pull/669)
+- graphql-code-generator - [feat: add support for deprecated input fields](https://github.com/dotansimha/graphql-code-generator/pull/7767)
 
 ### 🎮 Interests
 I love technology and tinkering with the latest tools! I enjoy contributing to open source projects, building serverless bots and playing video games. I love going out for a drink, watching the AFL or EPL, and, going out to see a live gig or musical.
