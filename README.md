@@ -6,6 +6,7 @@ Typescript, Node.js, AWS, Serverless
 
 ### 👨‍💻 Open Source Contributions
 - [Serverless Esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
+- [zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - Contributor
 - AWS SDK v3
   - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
   - [fix(lib-storage): add missing return keys #2700](https://github.com/aws/aws-sdk-js-v3/pull/2700)
