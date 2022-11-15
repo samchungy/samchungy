@@ -10,6 +10,7 @@ Typescript, Node.js, AWS, Serverless
 - AWS SDK v3
   - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
   - [fix(lib-storage): add missing return keys #2700](https://github.com/aws/aws-sdk-js-v3/pull/2700)
+- Zod - [Add datetime string format](https://github.com/colinhacks/zod/pull/1494)
 - Serverless Canary Deployments - [feat: generate deployment group name #135](https://github.com/davidgf/serverless-plugin-canary-deployments/pull/135)
 - Serverless Datadog Plugin - [Fix: Correct exclude functionality #145](https://github.com/DataDog/serverless-plugin-datadog/pull/145)
 - Serverless Framework - [fix: Fix support for custom service level package artifacts](https://github.com/serverless/dashboard-plugin/pull/669)
