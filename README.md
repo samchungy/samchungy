@@ -5,6 +5,7 @@ I am a Senior Software Engineer based in Melbourne, Australia.
 Typescript, Node.js, AWS, Serverless
 
 ### 👨‍💻 Open Source Contributions
+- [zod-openapi](https://github.com/samchungy/zod-openapi) - Owner
 - [Serverless Esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
 - AWS SDK v3
   - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
