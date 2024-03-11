@@ -12,7 +12,7 @@ Typescript, Node.js, AWS, Serverless
 - [zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
 - [serverless-canary-deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
 - [serverless-datadog-pugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
-- [serverless](https://github.com/serverless/dashboard-plugin/commits/master/?author=samchungy)
+- [serverless](https://github.com/serverless/dashboard-plugin/commits/main/?author=samchungy)
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator/commits/master/?author=samchungy)
 
 ### 🎮 Interests
