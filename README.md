@@ -6,15 +6,15 @@ Typescript, Node.js, AWS, Serverless
 
 ### 👨‍💻 Open Source Contributions
 - [zod-openapi](https://github.com/samchungy/zod-openapi) - Creator
+- [fastify-zod-openapi](https://github.com/samchungy/fastify-zod-openapi) - Creator
 - [Serverless Esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
-- AWS SDK v3
-  - [fix(credential-provider-imds): destroy request handle on promise resolve/reject #2452](https://github.com/aws/aws-sdk-js-v3/pull/2452)
-  - [fix(lib-storage): add missing return keys #2700](https://github.com/aws/aws-sdk-js-v3/pull/2700)
-- Zod - [Add datetime string format](https://github.com/colinhacks/zod/pull/1494)
-- Serverless Canary Deployments - [feat: generate deployment group name #135](https://github.com/davidgf/serverless-plugin-canary-deployments/pull/135)
-- Serverless Datadog Plugin - [Fix: Correct exclude functionality #145](https://github.com/DataDog/serverless-plugin-datadog/pull/145)
-- Serverless Framework - [fix: Fix support for custom service level package artifacts](https://github.com/serverless/dashboard-plugin/pull/669)
-- graphql-code-generator - [feat: add support for deprecated input fields](https://github.com/dotansimha/graphql-code-generator/pull/7767)
+
+- [AWS SDK v3](https://github.com/aws/aws-sdk-js-v3/commits/main/?author=samchungy)
+- [Zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
+- [Serverless Canary Deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
+- [Serverless Datadog Plugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
+- [Serverless Framework](https://github.com/serverless/dashboard-plugin/commits/master/?author=samchungy)
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator/commits/master/?author=samchungy)
 
 ### 🎮 Interests
 I love technology and tinkering with the latest tools! I enjoy contributing to open source projects, building serverless bots and playing video games. I love going out for a drink, watching the AFL or EPL, and, going out to see a live gig or musical.
