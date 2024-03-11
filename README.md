@@ -8,7 +8,6 @@ Typescript, Node.js, AWS, Serverless
 - [zod-openapi](https://github.com/samchungy/zod-openapi) - Creator
 - [fastify-zod-openapi](https://github.com/samchungy/fastify-zod-openapi) - Creator
 - [Serverless Esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
-
 - [AWS SDK v3](https://github.com/aws/aws-sdk-js-v3/commits/main/?author=samchungy)
 - [Zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
 - [Serverless Canary Deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
