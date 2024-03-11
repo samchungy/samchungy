@@ -2,9 +2,9 @@
 I am a Senior Software Engineer based in Melbourne, Australia.
 
 ### 🌟 Skills:
-Typescript, Node.js, AWS, Serverless
+Typescript, Node.js, GraphQL, AWS, Serverless
 
-### 👨‍💻 Notable Open Source Contributions
+### 👨‍💻 Open Source Contributions
 - [zod-openapi](https://github.com/samchungy/zod-openapi) - Creator
 - [fastify-zod-openapi](https://github.com/samchungy/fastify-zod-openapi) - Creator
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
