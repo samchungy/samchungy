@@ -7,12 +7,12 @@ Typescript, Node.js, AWS, Serverless
 ### 👨‍💻 Open Source Contributions
 - [zod-openapi](https://github.com/samchungy/zod-openapi) - Creator
 - [fastify-zod-openapi](https://github.com/samchungy/fastify-zod-openapi) - Creator
-- [Serverless Esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
-- [AWS SDK v3](https://github.com/aws/aws-sdk-js-v3/commits/main/?author=samchungy)
-- [Zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
-- [Serverless Canary Deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
-- [Serverless Datadog Plugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
-- [Serverless Framework](https://github.com/serverless/dashboard-plugin/commits/master/?author=samchungy)
+- [serverless-esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
+- [aws-sdk-v3](https://github.com/aws/aws-sdk-js-v3/commits/main/?author=samchungy)
+- [zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
+- [serverless-canary-deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
+- [serverless-datadog-pugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
+- [serverless](https://github.com/serverless/dashboard-plugin/commits/master/?author=samchungy)
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator/commits/master/?author=samchungy)
 
 ### 🎮 Interests
