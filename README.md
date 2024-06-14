@@ -9,7 +9,7 @@ Typescript, Node.js, GraphQL, AWS, Serverless
 - [fastify-zod-openapi](https://github.com/samchungy/fastify-zod-openapi) - Creator
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild) - Collaborator
 - [aws-sdk-v3](https://github.com/aws/aws-sdk-js-v3/commits/main/?author=samchungy)
-- [zod](https://github.com/colinhacks/zod/commits/master/?author=samchungy)
+- [zod](https://github.com/colinhacks/zod/commits/main?author=samchungy)
 - [serverless-canary-deployments](https://github.com/davidgf/serverless-plugin-canary-deployments/commits/master/?author=samchungy)
 - [serverless-datadog-pugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
 - [serverless](https://github.com/serverless/dashboard-plugin/commits/main/?author=samchungy)
