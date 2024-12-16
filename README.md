@@ -1,6 +1,8 @@
 ## Hi, I'm Sam 👋
 I am a Senior Software Engineer based in Melbourne, Australia.
 
+I love creating delightful developer experiences.
+
 ### 🌟 Skills:
 Typescript, Node.js, GraphQL, AWS, Serverless
 
@@ -14,5 +16,3 @@ Typescript, Node.js, GraphQL, AWS, Serverless
 - [serverless-datadog-pugin](https://github.com/DataDog/serverless-plugin-datadog/commits/master/?author=samchungy)
 - [serverless](https://github.com/serverless/dashboard-plugin/commits/main/?author=samchungy)
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator/commits/master/?author=samchungy)
-
-I love creating delightful developer experiences.
