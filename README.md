@@ -1,7 +1,7 @@
 ## Hi, I'm Sam 👋
 I am a Senior Software Engineer based in Melbourne, Australia.
 
-I love creating delightful developer experiences.
+I enjoy creating delightful developer experiences.
 
 ### 🌟 Skills:
 Typescript, Node.js, GraphQL, AWS, Serverless
