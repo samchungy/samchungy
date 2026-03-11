@@ -1,7 +1,7 @@
 ## Hi, I'm Sam 👋
 I am a Staff Engineer based in Melbourne, Australia.
 
-I enjoy creating delightful developer experiences.
+I love creating wonderful developer experiences.
 
 ### 🌟 Skills:
 Typescript, Node.js, GraphQL, AWS, Serverless
